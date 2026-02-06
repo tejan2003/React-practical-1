@@ -29,9 +29,9 @@ import ParentComponent from './components/ParentComponent'
 function App(){
   return(
      <>
-    //<MemoParent />
-    //<MemoComputation />
-    //<CallbackExample />
+    {/* <MemoParent />
+    <MemoComputation />
+    <CallbackExample /> */}
     <ParentComponent />
     </>
   );
