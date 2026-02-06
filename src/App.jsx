@@ -17,9 +17,9 @@ import './App.css'
 //import { ErrorBoundary }from "react-error-boundary"
 //import ErrorFallback from './components/ErrorFallback'
 //import MyComponents from './components/MyComponents'
-import MemoParent from './components/MemoParent'
-import MemoComputation from './components/MemoComputation'
-import CallbackExample from './components/CallBackExample'
+//import MemoParent from './components/MemoParent'
+//import MemoComputation from './components/MemoComputation'
+//import CallbackExample from './components/CallBackExample'
 import ParentComponent from './components/ParentComponent'
 
 
@@ -29,9 +29,9 @@ import ParentComponent from './components/ParentComponent'
 function App(){
   return(
      <>
-    <MemoParent />
-    <MemoComputation />
-    <CallbackExample />
+    //<MemoParent />
+    //<MemoComputation />
+    //<CallbackExample />
     <ParentComponent />
     </>
   );
